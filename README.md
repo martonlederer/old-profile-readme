@@ -16,7 +16,7 @@ export class Programming {
   frameworks: string[] = ['Vue', 'Svelte', 'React']
   runtimes: string[] = ['Deno', 'Node']
   databases: string[] = ['MySQL', 'RethinkDB', 'Mongo']
-  learning: string[] = ['Rust', 'Go']
+  learning: string[] = ['Rust', 'Go', 'Angular']
   projects: string[] = ['Evolution X', 'nest.land', 'BetterAntispam', 'BloomAlts', 'Agrigo.farm/Cubilog']
 
 }
