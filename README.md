@@ -5,7 +5,9 @@ export class Info {
   age: number = 17
   nationality: string[] = ['Hungarian', 'Brazilian']
   school: string = 'Alternatív Közgazdasági Gimnázium'
-  occupation: string = 'Web Developer and Designer'
+  occupation: string = 'Web Developer and Designer, Student'
+  freetime: string[] = ['Gym', 'Reading', 'Hanging out with friends']
+  musical_interest_years: number[] = [70, 80, 90]
 
 }
 
@@ -27,6 +29,7 @@ export class Social {
   github: string = 'MartonDev'
   instagram: string = '@martonlederer'
   discord: string = 'Marton#6513'
+  spotify: string = 'https://spoti.fi/2ZEq3CN'
 
 }
 ```
