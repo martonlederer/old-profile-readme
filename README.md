@@ -4,6 +4,7 @@ export class Info {
   name: string = 'Marton Lederer'
   age: number = 17
   nationality: string[] = ['Hungarian', 'Brazilian']
+  let languages: Record<string, string>[] = [{ 'Spanish': 'B2' }, { 'English': 'C1' }, { 'Hungarian': 'native' }]
   school: string = 'Alternatív Közgazdasági Gimnázium'
   occupation: string = 'Web Developer and Designer, Student'
   freetime: string[] = ['Gym', 'Reading', 'Hanging out with friends']
