@@ -20,7 +20,7 @@ export class Programming {
   runtimes: string[] = ['Deno', 'Node']
   databases: string[] = ['MySQL', 'RethinkDB', 'Mongo']
   learning: string[] = ['Rust', 'Go', 'Angular']
-  projects: string[] = ['Evolution X', 'nest.land', 'BetterAntispam', 'BloomAlts', 'Agrigo.farm/Cubilog']
+  projects: string[] = ['nest.land', 'Agrigo.farm/Cubilog', 'BetterAntispam', 'BloomAlts', 'Evolution X']
 
 }
 
