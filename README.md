@@ -27,7 +27,7 @@ export class Programming {
 export class Social {
 
   website: string = 'https://marton.lederer.hu'
-  github: string = 'MartonDev'
+  github: string = 'martonlederer'
   instagram: string = '@martonlederer'
   discord: string = 'Marton#6513'
   spotify: string = 'https://spoti.fi/2ZEq3CN'
