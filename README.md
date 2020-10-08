@@ -31,6 +31,7 @@ export class Social {
   instagram: string = '@martonlederer'
   discord: string = 'Marton#6513'
   spotify: string = 'https://spoti.fi/2ZEq3CN'
+  twitter: string = '@martonlederer'
 
 }
 ```
