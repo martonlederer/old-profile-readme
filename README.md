@@ -1,37 +1,20 @@
-```ts
-export class Info {
+<img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/textforreadme.png" />
 
-  name: string = 'Marton Lederer'
-  age: number = 17
-  nationality: string[] = ['Hungarian', 'Brazilian']
-  languages: Record<string, string>[] = [{ 'Spanish': 'B2' }, { 'English': 'C1' }, { 'Hungarian': 'native' }]
-  school: string = 'Alternatív Közgazdasági Gimnázium'
-  occupation: string = 'Web Developer and Designer, Student'
-  freetime: string[] = ['Gym', 'Reading', 'Hanging out with friends']
-  musical_interest_years: number[] = [70, 80, 90]
+## Hey! 👋
+I'm Marton, a 17 years old web developer from Hungary.
 
-}
+- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
 
-export class Programming {
+- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
 
-  languages: string[] = ['TypeScript', 'JavaScript', 'PHP']
-  stylesheets: string[] = ['CSS', 'SASS', 'SCSS', 'Stylus']
-  frameworks: string[] = ['Vue', 'Svelte', 'React']
-  runtimes: string[] = ['Deno', 'Node']
-  databases: string[] = ['MySQL', 'RethinkDB', 'Mongo']
-  learning: string[] = ['Rust', 'Go', 'Angular']
-  projects: string[] = ['nest.land', 'verto.exchange', 'Agrigo.farm/Cubilog', 'BetterAntispam', 'BloomAlts', 'Evolution X']
+## Skills
+- 👨‍💻 TypeScript, JavaScript, PHP
+- ⚙️ React, Svelte, Vue
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
 
-}
-
-export class Social {
-
-  website: string = 'https://marton.lederer.hu'
-  github: string = 'martonlederer'
-  instagram: string = '@martonlederer'
-  discord: string = 'Marton#6513'
-  spotify: string = 'https://spoti.fi/2ZEq3CN'
-  twitter: string = '@martonlederer'
-
-}
-```
+## Contact
+- [marton.lederer.hu](https://marton.lederer.hu)
+- [@martonlederer](https://twitter.com/martonlederer) on Twitter
+- [@martonlederer](https://twitter.com/instagram) on Instagram
+- [Marton#6513](./) on Discord
