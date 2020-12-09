@@ -2,32 +2,34 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-        @keyframes gradientText {
-          0% {
-            background-position: 0% 50%
-          }
-          50% {
-            background-position: 100% 50%
-          }
-          100% {
-            background-position: 0% 50%
-          }
-        }
+				@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap')
+				@keyframes gradientText {
+				  0% {
+				    background-position: 0% 50%
+				  }
+				  50% {
+				    background-position: 100% 50%
+				  }
+				  100% {
+				    background-position: 0% 50%
+				  }
+				}
 				h1 {
-          margin: 1em 0;
-          font-size: 10em;
-          font-weight: 900;
-          letter-spacing: -.05em;
-          text-align: center;
-          background: -webkit-linear-gradient(right,#3828ca,#ff004c);
-          background: linear-gradient(270deg,#3828ca 0,#ff004c);
-          background-size: 200%;
-          background-clip: text;
-          -webkit-background-clip: text;
-          -webkit-text-fill-color: transparent;
-          -webkit-animation: home_name-animation__3Ydoo 3s ease infinite;
-          animation: gradientText 3s ease infinite;
-        }
+				  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+				  margin: 1em 0;
+				  font-size: 4em;
+				  font-weight: 900;
+				  letter-spacing: -.05em;
+				  text-align: center;
+				  background: -webkit-linear-gradient(right,#3828ca,#ff004c);
+				  background: linear-gradient(270deg,#3828ca 0,#ff004c);
+				  background-size: 200%;
+				  background-clip: text;
+				  -webkit-background-clip: text;
+				  -webkit-text-fill-color: transparent;
+				  -webkit-animation: home_name-animation__3Ydoo 3s ease infinite;
+				  animation: gradientText 3s ease infinite;
+				}
 			</style>
 			<h1>Marton Lederer</h1>
 		</div>
