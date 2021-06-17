@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" align = "center"/>
+<img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" align="center" />
 
 ## Hey! 👋
 I'm Marton, a 18 years old web developer from Hungary.
