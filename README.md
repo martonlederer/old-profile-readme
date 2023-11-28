@@ -4,7 +4,7 @@
 
 
 ## Hey! 👋
-I'm Michael Akindele, I'm a data plumber, building and laying data pipe a code at a time. learning every step of the way
+I'm Michael Akindele, I'm a data plumber, building and laying data pipes a code at a time. learning every step of the way
 
 - 🦔 Founder of EchoDev; a one shop stop for all data products and services for SMEs.
 
