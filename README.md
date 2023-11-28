@@ -12,7 +12,7 @@ I'm Michael Akindele, I'm a data plumber, building and laying data pipes a code 
 
 ## Skills
 - 👨‍💻 mySQL, Python, GraphQL,
-- ⚙️ Postgre, Docker,html,CSS
+- ⚙️ Postgre, Docker, html, CSS
 - 👁️ Tableau
 - 💽 Bigquery
 + a lot more :D
