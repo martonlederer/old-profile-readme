@@ -11,7 +11,7 @@ I'm Michael Akindele, I'm a data plumber, building and laying data pipes a code 
 + Building data_spiro community for all round data enthusiast
 
 ## Skills
-- 👨‍💻 MYsql, Python, GraphQL,
+- 👨‍💻 mySQL, Python, GraphQL,
 - ⚙️ Postgre, Docker,html,CSS
 - 👁️ Tableau
 - 💽 Bigquery
